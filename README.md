@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/cahuekokeny/"> <img alt="By Cahue Kokeny" src="https://img.shields.io/badge/Made%20by-Cahue%20Kokeny-important"> </a>
 
 
-Project developed as part of my Fron-end studies.
+Project developed as part of my Front-end studies.
 
 Website developed using:
 - HTML5
